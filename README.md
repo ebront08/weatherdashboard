@@ -4,7 +4,8 @@ Next, I created the index.html and commited to github.
 After that I created the assets folder and created the css folder and then the style.css file. 
 Then I created the js folder and then I created the scripts.js file. 
 Screenshot of deployed application : 
-
+Link to deployed application: https://ebront08.github.io/weatherdashboard/
+Repository link: https://github.com/ebront08/weatherdashboard
 ```
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
