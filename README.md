@@ -3,7 +3,8 @@ Had to first, check OpenWeather One Call API and read through the documentation 
 Next, I created the index.html and commited to github. 
 After that I created the assets folder and created the css folder and then the style.css file. 
 Then I created the js folder and then I created the scripts.js file. 
-Screenshot of deployed application : 
+Screenshot of deployed application : <img width="1440" alt="weatherdashboard2" src="https://user-images.githubusercontent.com/68530678/126574955-5ea9501b-6430-4d20-95e5-4cf2461b14f6.png">
+
 Link to deployed application: https://ebront08.github.io/weatherdashboard/
 Repository link: https://github.com/ebront08/weatherdashboard
 ```
