@@ -1,7 +1,7 @@
 function initPage() {
     const inputEl = document.getElementById("city-input");
     const searchEl = document.getElementById("search-button");
-    const clearEl = document.getElementById("clear-history");
+    const clearEl = document.getElementById("delete-history");
     const nameEl = document.getElementById("city-name");
     const currentPicEl = document.getElementById("current-pic");
     const currentTempEl = document.getElementById("temp");
